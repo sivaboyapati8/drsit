@@ -2,196 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d58eb39e-636e-4991-a7bd-5fe7419049ee" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-10.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-4.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-5.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-6.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-7.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-9.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/demo/style-switcher.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/flexslider-custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/form-mobile-fix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/form-validation-custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/instagram-custom-for-blog.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/instagram-custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/isotope-custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/min/flexslider-custom-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/min/map-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/min/owl-custom-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/owl-custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/blueimp-bootstrap-image-gallery.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/css/bootstrap-image-gallery.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/css/bootstrap-image-gallery.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/css/demo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/img/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/jquery.blueimp-gallery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/js/bootstrap-image-gallery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/js/bootstrap-image-gallery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/js/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/min/jquery.blueimp-gallery.min-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Bootstrap-Image-Gallery/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/FitVids/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/FitVids/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/FitVids/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/FitVids/jquery.fitvids.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/FitVids/tests.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/blueimp-gallery.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/css/blueimp-gallery-indicator.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/css/blueimp-gallery-video.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/css/blueimp-gallery.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/css/blueimp-gallery.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/css/demo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/img/error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/img/error.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/img/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/img/play-pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/img/play-pause.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/img/video-play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/img/video-play.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/js/blueimp-gallery-fullscreen.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/js/blueimp-gallery-indicator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/js/blueimp-gallery-video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/js/blueimp-gallery-vimeo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/js/blueimp-gallery-youtube.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/js/blueimp-gallery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/js/blueimp-gallery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/js/blueimp-helper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/js/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/js/jquery.blueimp-gallery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/js/jquery.blueimp-gallery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Gallery/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/back-to-top.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap-hover-dropdown.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/README.mdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/flexslider.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/fonts/flexslider-icon.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/fonts/flexslider-icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/fonts/flexslider-icon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/fonts/flexslider-icon.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/images/bg_play_pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/jquery.flexslider-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/jquery.flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/gmaps/gmaps.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/imagesloaded.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/instafeed.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/CONTRIBUTORS.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/isMobile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/isMobile.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/tests/spec/AndroidSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/tests/spec/AppleSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/tests/spec/DesktopSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/tests/spec/OtherSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/tests/spec/SevenInchSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/tests/spec/WindowsSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isotope.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-1.11.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-match-height/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-match-height/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-match-height/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-match-height/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-match-height/jquery.matchHeight-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-match-height/jquery.matchHeight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-match-height/matchHeight.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-match-height/test.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-match-height/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-match-height/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/LICENSE-MIT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/jquery.placeholder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/tests/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/tests/tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery.validate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/masonry.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owl-carousel/AjaxLoader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owl-carousel/grabbing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owl-carousel/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owl-carousel/owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owl-carousel/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owl-carousel/owl.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owl-carousel/owl.transitions.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/config.codekit" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/css/demo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/css/normalize.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/css/rrssb.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/icons/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/icons/facebook.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/icons/github.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/icons/google_plus.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/icons/instagram.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/icons/linkedin.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/icons/mail.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/icons/pinterest.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/icons/pocket.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/icons/reddit.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/icons/tumblr.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/icons/twitter.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/icons/youtube.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/js/rrssb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/js/rrssb.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/js/vendor/jquery.1.10.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/media/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/media/facebook-share.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/media/rrssb-preview.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/media/rrssb-preview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/scss/demo.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/rrssb/scss/rrssb.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/case-study-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/case-study-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/styles.css" afterPath="$PROJECT_DIR$/assets/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/casestudy.html" afterPath="$PROJECT_DIR$/partials/casestudy.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/clients.html" afterPath="$PROJECT_DIR$/partials/clients.html" />
     </list>
     <ignored path="DRS_IT_Solutions.iws" />
@@ -216,59 +27,29 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.0769231">
+            <state vertical-scroll-proportion="-0.625">
               <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog-2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/images/blog/blog-2.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog-5.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/images/blog/blog-5.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog-thumb-1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/images/blog/blog-thumb-1.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog-thumb-2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/images/blog/blog-thumb-2.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog-tiny-thumb-1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/images/blog/blog-tiny-thumb-1.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logo-4.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/images/logos/logo-4.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="case-study-3.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/images/work/case-study-3.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="clients.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/partials/clients.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.36525613">
+              <caret line="380" column="0" selection-start-line="380" selection-start-column="0" selection-end-line="380" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#28;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#29;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#30;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#31;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#32;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#33;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#34;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#35;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -289,7 +70,6 @@
         <option value="$PROJECT_DIR$/partials/home.html" />
         <option value="$PROJECT_DIR$/partials/casestudy.html" />
         <option value="$PROJECT_DIR$/assets/css/styles.css" />
-        <option value="$PROJECT_DIR$/partials/clients.html" />
         <option value="$PROJECT_DIR$/assets/css/styles-2.css" />
         <option value="$PROJECT_DIR$/assets/css/styles-3.css" />
         <option value="$PROJECT_DIR$/assets/css/styles-4.css" />
@@ -321,6 +101,7 @@
         <option value="$PROJECT_DIR$/assets/plugins/masonry.pkgd.min.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/plugins/back-to-top.js" />
+        <option value="$PROJECT_DIR$/partials/clients.html" />
       </list>
     </option>
   </component>
@@ -360,8 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -380,8 +159,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DRS_IT_Solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DRS_IT_Solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -460,16 +255,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="32" y="23" width="1408" height="877" extended-state="0" />
-    <editor active="false" />
+    <frame x="32" y="23" width="1408" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24297044" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24297044" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909784" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909784" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32909784" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -477,6 +271,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909784" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -492,162 +287,6 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="89" column="56" selection-start-line="89" selection-start-column="53" selection-end-line="89" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/work.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="137" column="112" selection-start-line="137" selection-start-column="112" selection-end-line="137" selection-end-column="112" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/clients.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="337" column="49" selection-start-line="337" selection-start-column="49" selection-end-line="337" selection-end-column="49" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#28;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#29;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/casestudy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#section#4;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/work.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="137" column="112" selection-start-line="137" selection-start-column="112" selection-end-line="137" selection-end-column="112" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0833334">
-          <caret line="188" column="39" selection-start-line="188" selection-start-column="39" selection-end-line="188" selection-end-column="39" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#section#4;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/casestudy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.9215686">
-          <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.0392156">
-          <caret line="2489" column="17" selection-start-line="2489" selection-start-column="17" selection-end-line="2489" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/clients.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="75.0">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#28;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#29;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0769231">
           <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
           <folding />
         </state>
@@ -686,6 +325,199 @@
     <entry file="file://$PROJECT_DIR$/assets/images/work/case-study-3.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="89" column="56" selection-start-line="89" selection-start-column="53" selection-end-line="89" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="112" selection-start-line="137" selection-start-column="112" selection-end-line="137" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/clients.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="337" column="49" selection-start-line="337" selection-start-column="49" selection-end-line="337" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#28;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#29;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#30;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#31;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#32;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#33;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#34;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#35;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/casestudy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="112" selection-start-line="137" selection-start-column="112" selection-end-line="137" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0833334">
+          <caret line="188" column="39" selection-start-line="188" selection-start-column="39" selection-end-line="188" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/casestudy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9215686">
+          <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.0392156">
+          <caret line="2489" column="17" selection-start-line="2489" selection-start-column="17" selection-end-line="2489" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/blog/blog-2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/blog/blog-5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/blog/blog-thumb-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/blog/blog-thumb-2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/blog/blog-tiny-thumb-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/work/case-study-3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/logos/logo-4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/clients.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36525613">
+          <caret line="380" column="0" selection-start-line="380" selection-start-column="0" selection-end-line="380" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#28;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#29;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#30;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#31;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#32;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#33;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#34;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#35;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
