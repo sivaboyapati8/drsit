@@ -2483,6 +2483,10 @@ body.no-header-wrapper {
   }
 }
 
-.service-box{
+.service-box {
   padding: 20px;
+}
+
+.contact-section2 {
+  padding: 80px 0;
 }
